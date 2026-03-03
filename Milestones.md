@@ -1,7 +1,7 @@
 # MILESTONE 1
 
 ## Dataset
-
+1. 500 nagranych zdań
 ## text-to-PJM
 
 ## PJM-to-text
@@ -12,7 +12,7 @@
 # MILESTONE 2
 
 ## Dataset
-
+2. 5000 nagranych zdań
 ## text-to-PJM
 
 ## PJM-to-text
