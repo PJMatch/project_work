@@ -11,4 +11,5 @@
 - źródło światła jest za kamerą,
 - nagrywamy na wysokości barków,
 - kamera ustawiona tak aby widoczna była cała sylwetka od pasa w górę,
-- brak okrycia wierzchniego.
+- brak okrycia wierzchniego,
+- dłonie osoby migającej widoczne przez cały czas nagrania.
