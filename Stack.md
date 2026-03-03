@@ -6,3 +6,11 @@
 * Pandas 
 * NumPy 
 * Jiwer - WER
+
+## Text-to-PJM
+* Python
+* SpaCy
+* FastAPI
+* Blender
+* Open Mocap
+* Unreal Engine 5
