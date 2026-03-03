@@ -4,13 +4,10 @@
 1. 500 nagranych zdań
 ## text-to-PJM
 
-## PJM-to-texc
-
-## Dataset
-
-## text-to-PJM
-
-## PJM-to-texc
+## PJM-to-text
+* Stworzenie szkieletów na podstawie How2Sign i Phoenix14t
+* Pretraining na Phoenix14T, How2Sign
+* WER < 25% (TEST) na Phoenix14-t
 
 # MILESTONE 2
 
@@ -18,7 +15,9 @@
 2. 5000 nagranych zdań
 ## text-to-PJM
 
-## PJM-to-texc
+## PJM-to-text
+* Adaptacja sieci do naszego datasetu
+* Fine-tuning sieci na naszym datasecie osiągając skuteczność WER < 60%
 
 # MILESTONE 3
 
@@ -26,6 +25,11 @@
 
 ## text-to-PJM
 
-## PJM-to-texc
+## PJM-to-text
+* WER < 30%
+* Vram < 1GB
+* < 150ms latency
+* > 15fps
+
 
 # FINAL PROJECT
