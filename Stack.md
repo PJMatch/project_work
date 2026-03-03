@@ -9,7 +9,7 @@
 
 ## Text-to-PJM
 * Python
-* SpaCy
+* SpaCy-Stanza
 * FastAPI
 * Blender
 * Open Mocap
