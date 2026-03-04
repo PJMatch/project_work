@@ -25,7 +25,6 @@
 - Procesor graficzny -> NVIDIA GeForce RTX 4060 Ti 
 - Procesor CPU -> 13th Gen Intel(R) Core(TM) i7-13700KF 
 - Pamięć RAM -> 64.00 GB
-- System operacyjny -> Windows 11
 
 ## Text-to-PJM
 1. Stworzenie przynajmniej 90 animacji leksykalnych znaków w blenderze z użyciem Open Mocap.
