@@ -16,12 +16,16 @@
 
 ## PJM-to-text
 
-- Accuracy: WER < 30% 
-- Peak VRAM usage < 1GB 
-- Throughput > 20fps
-- time sign to text < 800ms
+1. Accuracy: WER < 30% 
+2. Peak VRAM usage < 1GB 
+3. Throughput > 20fps
+4. time sign to text < 800ms
 
-Tested on Hardware: ryzen 7 7600 rtx 4070
+5. Sprzęt testowy: 
+- Procesor graficzny -> NVIDIA GeForce RTX 4060 Ti 
+- Procesor CPU -> 13th Gen Intel(R) Core(TM) i7-13700KF 
+- Pamięć RAM -> 64.00 GB
+- System operacyjny -> Windows 11
 
 ## Text-to-PJM
 1. Stworzenie przynajmniej 90 animacji leksykalnych znaków w blenderze z użyciem Open Mocap.
