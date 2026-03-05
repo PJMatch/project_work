@@ -14,6 +14,10 @@
 * Pretraining na Phoenix14T, How2Sign
 * WER < 25% (TEST) na Phoenix14-t
 
+* ekstrakcja szkieletów z datasetów How2Sign i Phoenix14t
+* pretraining na Phoenix14T, How2Sign
+* WER < 25% (TEST) na Phoenix14-t
+
 # MILESTONE 2
 
 ## Dataset
@@ -27,8 +31,8 @@
 * Czas blendu między animacjami ≤ 0.8 sekundy.
 
 ## PJM-to-text
-* Adaptacja sieci do naszego datasetu
-* Fine-tuning sieci na naszym datasecie osiągając skuteczność WER < 60%
+* fine-tuning sieci na naszym datasecie osiągając skuteczność WER < 60%
+* Przepustowość modelu > 10fps
 
 # MILESTONE 3
 
@@ -43,10 +47,12 @@
 
 
 ## PJM-to-text
-* WER < 30%
-* Vram < 1GB
-* < 150ms latency
-* > 15fps
+* WER < 40%
+* maksymalne zużycie VRAM  < 1GB
+* przepustowość modelu >15fps
+* integracja Lokalnego LLMa qwen 2.5-7b instruct
+* BLEU-1 > 40%
+* BLUE-2 > 15%
 
 
 # FINAL PROJECT

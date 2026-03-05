@@ -16,10 +16,15 @@
 
 ## PJM-to-text
 
-1. Accuracy: WER < 30% 
-2. Peak VRAM usage < 1GB 
-3. Throughput > 20fps
-4. time sign to text < 800ms
+* osiągnięcie dokładności WER < 30% na naszym datasecie,
+* maksymalne zużycie VRAM  < 1GB,
+* przepustowość > 20fps
+* wyświetlanie tekstu po rozpoznaniu końca glossu z maksymalnym opóźnieniem 500ms,
+* minimalny czas jednego migu = 0.75*średni czas migu w datasetcie, 
+* maksymalny czas jednego migu = średni czas migu w datasetcie*1.5,
+* Inferencja LLM co 2 wykryte glossy, z maksymalnym opóźnieniem 2s (time to last token)
+* BLEU-1 > 40%
+* BLUE-2 > 15%
 
 5. Sprzęt testowy: 
 - Procesor graficzny -> NVIDIA GeForce RTX 4060 Ti 
