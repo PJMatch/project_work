@@ -4,6 +4,7 @@
 
 W przypadku gdy praca, którą wykonamy nie jest w stanie zostać udokumentowana w formie commita, dodajemy 
 wpis do pliku *non_commitable.csv*
+**UWAGA:** Nie ma potrzeby robić nowych branchy i pull requestów. Commitujemy bezpośrednio na main
 
 **Struktura pliku:**
 
