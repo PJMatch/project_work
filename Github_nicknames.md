@@ -8,7 +8,7 @@
 | Kruk1           | Albert Krysiak    |
 | luukhy          | Piotr Haber       |
 | nico130kk       | Nicolas Grdeń     |
-| Maciej          | Maciej Truchanowski |
+| pietrucha64     | Maciej Truchanowski |
 | PM              | Piotr Matwitz     |
 | Raksow          | Oskar Wędołowski  |
 | WujekR          | Michał Liberacki  |
