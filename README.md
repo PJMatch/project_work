@@ -12,9 +12,9 @@ zadanie [opis zdania które wykonano]; data [YYYY-MM-DD]; czas [w godzinach]; mi
 
 **Przykład**
 
-zadanie;data;czas;miejsce;kto;
+zadanie,data,czas,miejsce,kto
 
-tworzenie grafiki na ekrany na PG; 2026-03-07; 2; dysk google; Adam Nowicki;
+tworzenie grafiki na ekrany na PG,2026-03-07,2,dysk google,Adam Nowicki
 
-nagrywanie datasetu; 2026-03-012; 3; serwer PG; Piotr Kowalski;
+nagrywanie datasetu,2026-03-012,3,serwer PG,Piotr Kowalski
 
