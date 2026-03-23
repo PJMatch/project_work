@@ -8,7 +8,8 @@ wpis do pliku *non_commitable.csv*
 
 **Struktura pliku:**
 
-zadanie [opis zdania które wykonano]; data [YYYY-MM-DD]; czas [w godzinach]; miejsce [gdzie jest wynik tej pracy]; kto [imię nazwisko]
+| zadanie [opis zdania które wykonano] | data [YYYY-MM-DD] | czas [w godzinach] | miejsce [gdzie jest wynik tej pracy] | kto [imię nazwisko] |
+| ----- | ------ | ----- | ------ | ----- |
 
 **Przykład**
 
