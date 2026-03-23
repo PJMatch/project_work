@@ -1,5 +1,7 @@
 # MILESTONE 1
 
+*pogrubione punkty zostały wykonane*
+
 ## Dataset
 1. 500 nagranych zdań
 
