@@ -3,21 +3,23 @@
 *pogrubione punkty zostały wykonane*
 
 ## Dataset
-1. 500 nagranych zdań
+
+Założenia:
+* **500 nagranych zdań**
 
 ## text-to-PJM
-* Stworzenie przynajmniej 10 animacji leksykalnych znaków.
-* UE5 poprawnie odtwarza sekwencję minimum 3 znaków bez przerwania animacji.
-* Płynność animacji ≥ 30 FPS na sprzęcie testowym.
-* Poprawne lematyzowanie zdania na poziomie powyżej 80%.
+
+Założenia:
+* **Stworzenie przynajmniej 10 animacji leksykalnych znaków.**
+* **UE5 poprawnie odtwarza sekwencję minimum 3 znaków bez przerwania animacji.**
+* **Płynność animacji ≥ 30 FPS na sprzęcie testowym.**
+* **Poprawne lematyzowanie zdania na poziomie powyżej 80%.**
 
 ## PJM-to-text
-* Stworzenie szkieletów na podstawie How2Sign i Phoenix14t
-* Pretraining na Phoenix14T, How2Sign
-* WER < 25% (TEST) na Phoenix14-t
 
-* ekstrakcja szkieletów z datasetów How2Sign i Phoenix14t
-* pretraining na Phoenix14T, How2Sign
+Założenia:
+* **Stworzenie szkieletów na podstawie** How2Sign i **Phoenix14t**
+* **Pretraining na Phoenix14T,** How2Sign
 * WER < 25% (TEST) na Phoenix14-t
 
 # MILESTONE 2
